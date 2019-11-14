@@ -1,8 +1,0 @@
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\bin\Debug\netstandard2.0\MultiTenancy.deps.json
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\bin\Debug\netstandard2.0\MultiTenancy.dll
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\obj\Debug\netstandard2.0\MultiTenancy.AssemblyInfoInputs.cache
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\obj\Debug\netstandard2.0\MultiTenancy.AssemblyInfo.cs
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\bin\Debug\netstandard2.0\MultiTenancy.pdb
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\obj\Debug\netstandard2.0\MultiTenancy.dll
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\obj\Debug\netstandard2.0\MultiTenancy.pdb
-D:\Projects\Lab\ERPMicroservices\Platform\MultiTenancy\obj\Debug\netstandard2.0\MultiTenancy.csprojAssemblyReference.cache

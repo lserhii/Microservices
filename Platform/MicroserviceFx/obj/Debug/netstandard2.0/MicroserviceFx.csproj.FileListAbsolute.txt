@@ -1,7 +1,0 @@
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\bin\Debug\netstandard2.0\MicroserviceFx.deps.json
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\bin\Debug\netstandard2.0\MicroserviceFx.dll
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\obj\Debug\netstandard2.0\MicroserviceFx.AssemblyInfoInputs.cache
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\obj\Debug\netstandard2.0\MicroserviceFx.AssemblyInfo.cs
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\bin\Debug\netstandard2.0\MicroserviceFx.pdb
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\obj\Debug\netstandard2.0\MicroserviceFx.dll
-D:\Projects\Lab\ERPMicroservices\Platform\MicroserviceFx\obj\Debug\netstandard2.0\MicroserviceFx.pdb
