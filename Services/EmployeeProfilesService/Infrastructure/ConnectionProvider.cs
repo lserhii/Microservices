@@ -2,8 +2,6 @@
 using Microsoft.Extensions.Configuration;
 using MultiTenancy;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace EmployeeProfilesLibrary.Infrastructure
 {

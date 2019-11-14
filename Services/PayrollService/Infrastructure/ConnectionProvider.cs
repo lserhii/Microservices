@@ -2,8 +2,6 @@
 using MultiTenancy;
 using PayrollLibrary.Infrastructure.ResourceTypes;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace PayrollLibrary.Infrastructure
 {
