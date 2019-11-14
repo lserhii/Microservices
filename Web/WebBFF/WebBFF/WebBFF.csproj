@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Contract\Commands\EmployeeProfiles\Model\" />
+    <Folder Include="Contract\Commands\Payroll\Model\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Platform\MicroserviceFx\MicroserviceFx.csproj" />
+    <ProjectReference Include="..\..\..\Platform\MultiTenancy\MultiTenancy.csproj" />
+    <ProjectReference Include="..\..\..\Services\EmployeeProfilesService\EmployeeProfilesLibrary.csproj" />
+    <ProjectReference Include="..\..\..\Services\PayrollService\PayrollLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

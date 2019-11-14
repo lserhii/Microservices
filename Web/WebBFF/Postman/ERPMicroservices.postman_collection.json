@@ -1,0 +1,72 @@
+{
+	"info": {
+		"_postman_id": "569224fc-d911-40fd-ae1c-1fa16fce1e95",
+		"name": "ERPMicroservices",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get employee details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44349/employees/46ebe9095c4749a98f7884dcd9f17fb4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44349",
+					"path": [
+						"employees",
+						"46ebe9095c4749a98f7884dcd9f17fb4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Migrate DBs",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44349/management/migrate",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44349",
+					"path": [
+						"management",
+						"migrate"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "0232f56e-4e45-47fc-a5d6-d64b9d5cc3bb",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "ae84597c-db99-4650-a68a-95428f35eee8",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
