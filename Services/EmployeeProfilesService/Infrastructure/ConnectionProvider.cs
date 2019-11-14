@@ -11,7 +11,7 @@ namespace EmployeeProfilesLibrary.Infrastructure
     {
         public ConnectionProvider(IConfiguration configuration)
         {
-            
+            var db = configuration.GetConnectionString("EmployeeProfiles:Database");   
         }
 
         public string GetConnectionStringForCurrentTenant()

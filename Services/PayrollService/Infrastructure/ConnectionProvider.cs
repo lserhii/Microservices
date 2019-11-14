@@ -11,7 +11,7 @@ namespace PayrollLibrary.Infrastructure
     {
         public ConnectionProvider(IConfiguration configuration)
         {
-
+            var db = configuration.GetConnectionString("Payroll:Database");
         }
 
         public string GetConnectionStringForCurrentTenant()
